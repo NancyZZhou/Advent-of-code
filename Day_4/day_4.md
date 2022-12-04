@@ -17,9 +17,6 @@ for i in range(0, len(data)):
 print(n_fully_contain)
 ```
 
-    462
-    
-
 
 ```python
 # Part 2
@@ -31,6 +28,3 @@ for i in range(0, len(data)):
         n_overlap = n_overlap + 1
 print(n_overlap)
 ```
-
-    835
-    
